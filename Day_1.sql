@@ -1,0 +1,15 @@
+/*
+Introduction to Database
+ SQL and MySQL
+ Different subsets of SQL
+ DBMS
+ Joins
+ Common clauses used with SELECT query in SQL
+  OLTP and OLAP
+  Primary key
+  Constraints
+  DELETE and TRUNCATE 
+  Unique key
+  Foreign key 
+  data integrity
+ */
